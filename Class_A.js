@@ -1,36 +1,36 @@
-class A {
+class D {
 
-    constructor(A1, A2) {
-        this.A1 = A1
-        this.A2 = A2
+    constructor(D1, D2) {
+        this.D1 = D1
+        this.D2 = D2
     }
 
-    getA1() {
-        return this.A1
+    getD1() {
+        return this.D1
     }
 
-    setA1(parametroA1) {
-        this.A1 = parametroA1
+    setD1(parametroD1) {
+        this.D1 = parametroD1
     }
 
-    getA2() {
-        return this.A2
+    getD2() {
+        return this.D2
     }
 
-    setA2(parametroA2) {
-        this.A2 = parametroA2
+    setD2(parametroD2) {
+        this.D2 = parametroD2
     }
 
-    MA1() {
-        console.log("MA1")
+    MD1() {
+        console.log("MD1")
     }
 
-    MA2() {
-        console.log("MA2")
+    MD2() {
+        console.log("MD2")
     }
 
-    MA3() {
-        console.log("Alteração a classe A partir do clone")
+    MD3() {
+        console.log("Dlteração a classe D partir do clone")
     }
 
 
