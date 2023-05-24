@@ -12,4 +12,8 @@ class D {
     MD2() {
         console.log("MD2")
     }
+    
+    MD3(){
+        console.log("MD3")
+    }
 }
