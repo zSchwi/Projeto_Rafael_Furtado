@@ -13,7 +13,7 @@ class D {
         console.log("MD2")
     }
     
-    MD3(){
-        console.log("MD3")
+    MD4(){
+        console.log("MD4")
     }
 }
