@@ -29,6 +29,10 @@ class A {
         console.log("MA2")
     }
 
+    MA3() {
+        console.log("Alteração a classe A partir do clone")
+    }
+
 
 
 
