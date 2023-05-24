@@ -16,4 +16,11 @@ class D {
     MD3() {
         console.log("MD3")
     }
+
+
+    MD4() {
+        console.log("MD4")
+    }
+
 }
+
